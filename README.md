@@ -1,29 +1,106 @@
-<h1 align="center">Hi 👋, I'm Aashish</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+# Aashish Dahale  
+**Full Stack Java Developer**  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishdahale&label=Profile%20views&color=0e75b6&style=flat" alt="aashishdahale" /> </p>
+📞 (+91) 777-589-4238 | 📧 dahale22@gmail.com | 🌍 Pune, India  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?logo=linkedin)](https://linkedin.com/in/aashishdahale09) | [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?logo=github)](https://github.com/aashishdahale) | [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%230096FF)](https://your-portfolio-link)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashishdahale" alt="aashishdahale" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 🎯 Professional Summary  
+Results-driven Full Stack Java Developer with a Post Graduate Diploma in Advanced Computing and expertise in building scalable web applications. Proven track record of delivering **3+ end-to-end projects** with **15-40% performance improvements** through optimized coding practices and database design. Strong proficiency in **Java ecosystem, REST APIs, and modern web technologies** with hands-on experience in Agile methodologies.
 
-- 💬 Ask me about **Java, JS, React, SpringBoot**
+---
 
-- 📫 How to reach me **dahale22@gmail.com**
+## 💻 Technical Expertise  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aashishdahale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashishdahale" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aashishdahale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aashishdahale" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@aashish438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aashish438" height="30" width="40" /></a>
-<a href="https://discord.gg/aashishdahale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aashishdahale" height="30" width="40" /></a>
-</p>
+### **Backend Development**  
+`Java` `Spring Boot` `Spring Framework` `Hibernate` `JPA` `REST APIs` `Microservices`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### **Frontend Development**  
+`React` `Angular` TypeScript` `HTML5` `CSS3` `JavaScript` `jQuery` `JSP` `Servlets`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishdahale&show_icons=true&locale=en&layout=compact" alt="aashishdahale" /></p>
+### **Databases & ORM**  
+`MySQL` `MongoDB` `PostgreSQL` `Hibernate` `Spring Data JPA`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashishdahale&show_icons=true&locale=en" alt="aashishdahale" /></p>
+### **DevOps & Tools**  
+`Maven` `Git` `AWS EC2` `Apache Tomcat` `Postman` `Linux` `Shell Scripting`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishdahale&" alt="aashishdahale" /></p>
+### **Methodologies**  
+`Agile Development` `SDLC` `System Documentation` `CI/CD`
+
+---
+
+## 🏆 Featured Projects  
+
+### **Bank Management System**  
+*Full Stack Java Application | Personal Project | 2024*  
+- Engineered a secure banking platform using **Spring Boot** and **MySQL** serving 1000+ simulated users
+- Implemented **RESTful APIs** for core banking operations including fund transfers and transaction history
+- **Optimized database performance** by 15% through strategic indexing and query optimization
+- Ensured data integrity with transaction management and implemented comprehensive error handling
+
+### **Hospital Management System**  
+*Enterprise Web Application | CDAC Academic Project | 2023*  
+- Developed a full-stack healthcare management system using **Java Servlets, JSP, and MySQL**
+- Integrated **Hibernate ORM** reducing database development time by 40% through automated SQL generation
+- Implemented **role-based access control** system for Admin, Doctor, and Patient portals
+- **Enhanced system efficiency** by 30% through optimized data retrieval algorithms and connection pooling
+
+### **Depression Analysis using Coevolutionary Neural Networks**  
+*Machine Learning Research Project | 2021*  
+- Architected a Python-based diagnostic system achieving **85% accuracy** in depression detection from EKG data
+- **Optimized neural network architecture** reducing processing time by 25% on Raspberry Pi hardware
+- Implemented data visualization using **Matplotlib** for clinical reporting and analysis
+- Published research findings demonstrating practical application of ML in healthcare diagnostics
+
+---
+
+## 📊 Technical Achievements  
+- **15% latency reduction** in banking transactions through API optimization
+- **40% reduction** in SQL development time using Hibernate ORM
+- **30% improvement** in data retrieval efficiency through query optimization
+- **85% accuracy** achieved in machine learning-based diagnostic system
+
+---
+
+## 🎓 Education & Credentials  
+
+### **Education**  
+- **Post Graduate Diploma in Advanced Computing**  
+  *Centre for Development of Advanced Computing (C-DAC), Pune | 2023*
+
+- **Bachelor of Engineering in Electronics & Telecommunication**  
+  *Pune University | 2021*
+
+### **Certifications**  
+- **Full Stack Java Development** - Udemy (Java + JSP + REST APIs + Spring Boot + React)
+- **The Complete Full-Stack Web Development Bootcamp** - Udemy
+- **The Complete Python Bootcamp from Zero to Hero** - Udemy
+- **Advanced Computing** - Centre for Development of Advanced Computing (C-DAC), Pune
+
+---
+
+## 🌟 What I Bring to Your Team  
+- **End-to-end development capability** from concept to deployment
+- **Performance-focused coding** with measurable improvements in system efficiency
+- **Strong problem-solving skills** with experience in both web applications and machine learning
+- **Agile mindset** with experience in collaborative development environments
+- **Continuous learning attitude** with multiple certifications in emerging technologies
+
+---
+
+## 📞 Let's Connect  
+I'm actively seeking opportunities to contribute to innovative projects and grow with forward-thinking organizations. 
+
+💼 **Open to**: Full-time roles in Java Development, Full Stack Development, and Software Engineering
+
+📧 **Email**: [dahale22@gmail.com](mailto:dahale22@gmail.com)  
+🔗 **LinkedIn**: [Connect with me](https://linkedin.com/in/your-profile)  
+💻 **GitHub**: [Explore my code](https://github.com/your-username)  
+🌐 **Portfolio**: [View my work](https://your-portfolio-link)
+
+---
+
+*"Passionate about crafting efficient solutions and driving technological innovation through clean, scalable code."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat)
