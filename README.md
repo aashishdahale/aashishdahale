@@ -2,7 +2,7 @@
 **Full Stack Java Developer**  
 
 📞 (+91) 777-589-4238 | 📧 dahale22@gmail.com | 🌍 Pune, India  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?logo=linkedin)](https://linkedin.com/in/aashishdahale09) | [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?logo=github)](https://github.com/aashishdahale) | [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%230096FF)](https://Going to buy domain soon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?logo=linkedin)](https://linkedin.com/in/aashishdahale09) | [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?logo=github)](https://github.com/aashishdahale) 
 
 ---
 
