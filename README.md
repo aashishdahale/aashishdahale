@@ -102,5 +102,3 @@ I'm actively seeking opportunities to contribute to innovative projects and grow
 ---
 
 *"Passionate about crafting efficient solutions and driving technological innovation through clean, scalable code."*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat)
